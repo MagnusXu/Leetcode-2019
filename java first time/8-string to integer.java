@@ -1,5 +1,4 @@
 public class Solution {
-	// example in leetcode book
 	private static final int maxDiv10 = Integer.MAX_VALUE / 10;
     public int myAtoi(String str) {
     	int i = 0, n = str.length();
